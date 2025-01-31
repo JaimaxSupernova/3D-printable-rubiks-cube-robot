@@ -47,3 +47,10 @@ pip install -r requirements.txt
 python3 src/koceimba_test.py
 ```
 
+## License
+
+This project is licensed under the GPLv2 License - see the [LICENSE](LICENSE) file for details.
+
+This project uses Kociemba's algorithm (GPLv2) for solving the Rubik's Cube. 
+
+
